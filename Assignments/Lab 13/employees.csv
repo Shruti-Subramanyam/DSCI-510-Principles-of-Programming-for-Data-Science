@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,department,salary
+1,John,Doe,HR,55000.0
+2,Alice,Smith,IT,60000.0
+3,Bob,Johnson,IT,45000.0
+4,Mary,Brown,Finance,55000.0
+5,Jane,Lee,HR,52000.0
