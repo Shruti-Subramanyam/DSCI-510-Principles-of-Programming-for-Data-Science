@@ -1,0 +1,5 @@
+Gender,Track,ParentalEducation,MathScore,ReadingScore,WritingScore
+Male,Track B,High School,75,80,82
+Female,Track B,Associate's Degree,88,90,85
+Male,Track B,Associate's Degree,88,91,85
+Male,Track C,High School,60,65,70

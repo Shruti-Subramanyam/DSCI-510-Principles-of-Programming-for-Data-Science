@@ -1,0 +1,8 @@
+first.doc
+first.pdf
+second.txt
+second.pdf
+third.doc
+third.txt
+first.txt
+second.doc
